@@ -101,7 +101,7 @@
                                 <button type="button" class="btn btn-danger" data-dismiss="modal">
                                     Close <i class="fa fa-ban"></i>
                                 </button>
-                                <button type="button" class="btn btn-success">
+                                <button type="submit" class="btn btn-success">
                                     Create <i class="fa fa-user-plus"></i>
                                 </button>
                             </div>

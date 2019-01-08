@@ -52125,7 +52125,7 @@ var staticRenderFns = [
       _vm._v(" "),
       _c(
         "button",
-        { staticClass: "btn btn-success", attrs: { type: "button" } },
+        { staticClass: "btn btn-success", attrs: { type: "submit" } },
         [
           _vm._v("\n                                Create "),
           _c("i", { staticClass: "fa fa-user-plus" })
